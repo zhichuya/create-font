@@ -1,0 +1,24 @@
+{
+  "name": "create-font-file",
+  "version": "1.0.0",
+  "description": "generate TTF based on the string you enter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/api.js"
+  },
+  "keywords": [
+    "create",
+    "ttf",
+    "wof"
+  ],
+  "author": "chengyuan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.12",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "wiki-font-carrier": "^0.3.1"
+  }
+}

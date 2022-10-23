@@ -1,0 +1,31 @@
+var urlMap = {
+    扩展B一: 'http://www.rendao.com/zsdispUni.asp?xu=231',
+    扩展B二: 'http://www.rendao.com/zsdispUni.asp?xu=232',
+    扩展B三: 'http://www.rendao.com/zsdispUni.asp?xu=233',
+    扩展B四: 'http://www.rendao.com/zsdispUni.asp?xu=234',
+    基本区补充: 'http://www.rendao.com/zsdispUni.asp?xu=1',
+    扩展A: 'http://www.rendao.com/zsdispUni.asp?xu=15',
+    扩展A补充: 'http://www.rendao.com/zsdispUni.asp?xu=18',
+    扩展B五: 'http://www.rendao.com/zsdispUni.asp?xu=235',
+    扩展B六: 'http://www.rendao.com/zsdispUni.asp?xu=236',
+    扩展B七: 'http://www.rendao.com/zsdispUni.asp?xu=237',
+    扩展B八: 'http://www.rendao.com/zsdispUni.asp?xu=238',
+    扩展B九: 'http://www.rendao.com/zsdispUni.asp?xu=239',
+    扩展B补充: 'http://www.rendao.com/zsdispUni.asp?xu=22',
+    扩展C: 'http://www.rendao.com/zsdispUni.asp?xu=2',
+    扩展D: 'http://www.rendao.com/zsdispUni.asp?xu=3',
+    扩展E: 'http://www.rendao.com/zsdispUni.asp?xu=24',
+    扩展F: 'http://www.rendao.com/zsdispUni.asp?xu=25',
+    扩展G: 'http://www.rendao.com/zsdispUni.asp?xu=26',
+    扩展H: 'http://www.rendao.com/zsdispUni.asp?xu=27',
+    康熙部首: 'http://www.rendao.com/zsdispUni.asp?xu=4',
+    部首扩展: 'http://www.rendao.com/zsdispUni.asp?xu=5',
+    兼容汉字: 'http://www.rendao.com/zsdispUni.asp?xu=6',
+    兼容扩展: 'http://www.rendao.com/zsdispUni.asp?xu=7',
+    汉字笔画: 'http://www.rendao.com/zsdispUni.asp?xu=11',
+    汉字结构: 'http://www.rendao.com/zsdispUni.asp?xu=12',
+    汉语注音: 'http://www.rendao.com/zsdispUni.asp?xu=13',
+    注音扩展: 'http://www.rendao.com/zsdispUni.asp?xu=14'
+};
+
+module.exports = urlMap;
