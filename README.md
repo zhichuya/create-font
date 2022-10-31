@@ -51,6 +51,10 @@
 4. [cheerio](https://github.com/cheeriojs/cheerio) 一个运行在 node 端的 jquery，可以在爬去数据的时候快速获取元素
 5. [koa](https://github.com/koajs/koa) 一个运行在 node.js 的轻量级 http 服务器
 
+### 版权声明
+
+    上库或网站内容如有侵权，劳烦联系本人删除。
+
 ### 运行方式
 
 注意需要 node 版本 14 以上
