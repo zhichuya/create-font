@@ -1,8 +1,7 @@
 /*
- * @Author: chengyuan
+ * @Author: 一月
  * @Date: 2022-03-19
- * @LastEditTime: 2022-10-23
- * @LastEditors: chengyuan06 chengyuan06@baidu.com
+ * @LastEditTime: 2022-11-01
  * @Description: 收集所有的异体字到../font.txt文件中
  */
 const urlMap = require('../../config/urlMap');
