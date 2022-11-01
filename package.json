@@ -11,7 +11,7 @@
     "ttf",
     "wof"
   ],
-  "author": "chengyuan",
+  "author": "YiYue",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
